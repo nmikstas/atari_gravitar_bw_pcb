@@ -3774,11 +3774,11 @@
     )
     (symbol "TL084_5_1"
       (pin power_in line (at -2.54 -7.62 90) (length 3.81)
-        (name "V-" (effects (font (size 0.508 0.508))))
+        (name "V-" (effects (font (size 1.27 1.27))))
         (number "11" (effects (font (size 1.27 1.27))))
       )
       (pin power_in line (at -2.54 7.62 270) (length 3.81)
-        (name "V+" (effects (font (size 0.508 0.508))))
+        (name "V+" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))
       )
     )

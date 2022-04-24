@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "atari")(type "KiCad")(uri "${KIPRJMOD}/atari.kicad_sym")(options "")(descr ""))
+  (lib (name "star_wars_arcade_main_pcb")(type "KiCad")(uri "${KIPRJMOD}/star_wars_arcade_main_pcb.kicad_sym")(options "")(descr ""))
+  (lib (name "Star_Wars_Vector_PCB")(type "KiCad")(uri "${KIPRJMOD}/Star_Wars_Vector_PCB.kicad_sym")(options "")(descr ""))
 )
