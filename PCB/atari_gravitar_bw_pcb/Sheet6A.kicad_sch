@@ -1187,8 +1187,8 @@
 
   (no_connect (at 245.745 173.355) (uuid 631b67f9-7b09-4db9-bf73-dd03cce3e21b))
   (no_connect (at 139.065 176.53) (uuid a49962e2-58b4-4ed7-a80b-e7b3df628d5e))
-  (no_connect (at 139.065 171.45) (uuid a49962e2-58b4-4ed7-a80b-e7b3df628d5e))
-  (no_connect (at 139.065 173.99) (uuid a49962e2-58b4-4ed7-a80b-e7b3df628d5e))
+  (no_connect (at 139.065 171.45) (uuid a49962e2-58b4-4ed7-a80b-e7b3df628d5f))
+  (no_connect (at 139.065 173.99) (uuid a49962e2-58b4-4ed7-a80b-e7b3df628d60))
 
   (wire (pts (xy 104.775 162.56) (xy 104.775 198.755))
     (stroke (width 0) (type default) (color 0 0 0 0))

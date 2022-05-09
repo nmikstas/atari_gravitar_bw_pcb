@@ -2142,7 +2142,7 @@
   )
 
   (no_connect (at 99.695 49.53) (uuid c9ff53b9-e73b-4505-b170-dba20d0b2633))
-  (no_connect (at 99.695 46.99) (uuid c9ff53b9-e73b-4505-b170-dba20d0b2633))
+  (no_connect (at 99.695 46.99) (uuid c9ff53b9-e73b-4505-b170-dba20d0b2634))
 
   (polyline (pts (xy 401.955 82.55) (xy 401.955 140.97))
     (stroke (width 0) (type default) (color 0 0 0 0))
